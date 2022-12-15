@@ -8,7 +8,7 @@ public class Sample
 	public void sample()
 	{
 		System.out.println("hii this is sample");
-		
+		System.out.println("print sample");
 	}
 
 }
